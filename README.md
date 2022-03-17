@@ -5,4 +5,4 @@ following hello world github example
 
 ### Mini Section
 
-[here](www.bbc.com)
+[here](www.bbc.co.uk)
